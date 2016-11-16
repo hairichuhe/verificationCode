@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'werification';
+  src: url('../fonts/KBFunHouse.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+.canvas {
+	width: 135px;
+	height: 0px;
+	overflow: hidden;
+	background: url("../img/wein.png");
+	font-size: 40px;
+	line-height: 60px;
+	letter-spacing:12px;
+	font-family: "werification";
+	padding: 0 10px;
+	color: #A48134;
+	text-align: justify;
+	display: block;
+}
+#canvas{
+	font-family: "werification";
+}
